@@ -1,0 +1,50 @@
+<!doctype html>
+<head>
+<title> Profile </title>
+<meta charset="utf-8">
+</head>
+<body>
+<strong><hi>Profile</h1></strong>
+<br><br><br>
+
+<img src="face.jpg" width="5%">
+
+<br><br><br>
+
+원명진
+<br>
+소속:<a href="https://www.chungbuk.ac.kr/site/www/main.do"
+target="_blank" title="CBNU"> CBNU </a>
+ software
+
+<br><br><br>
+
+Family
+<ul>
+<li>Father</li>
+<li>Mother</li>
+<li>Sister</li>
+<li>Brother</li>
+</ul>
+<br><br><br>
+
+<table border="1">
+  <caption>schedule</caption>
+  <tr>
+    <th colspan="10">월~금</th>
+    <th>토</th>
+    <th>일</th>
+  </tr>
+
+  <tr>
+    <td  colspan="10">강의+과제</td>
+    <td colspan="2" rowspan="2">무야호</td>
+
+  </tr>
+
+  <tr>
+    <td colspan="10"> 운동    </td>
+  </tr>
+
+
+</body>
