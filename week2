@@ -1,0 +1,45 @@
+<!doctype html>
+<head>
+<title> 폼,동영상 삽 </title>
+<meta charset="utf-8">
+</head>
+<body>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CfPxlb8-ZQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h1> <5가지 이상의 폼 이용해보아요!></h1>
+<form action=""  method="post">
+
+
+<div>
+  <label for="name">당신의 이름은?:</label>
+    <input type="text"   id="name" name="name"><br>
+    </div>
+
+<div>
+<label for="Q.2">여기 입력하는건 아무도 못봐요!:</label>
+  <input type="password" id="Q.2" name="Q.2" placeholder="이건 안내문이에요!"><br>
+  </div>
+
+<div>
+  <label for="날짜">날짜를 선택할 수 있어요: </label>
+   <input type="date" id="날짜" name="날짜"><br>
+   </div>
+   <div>
+
+<label for="폰 번호"> Phone num:</label>
+  <input type="number" id="폰 번호" name="폰 번호"><br>
+  </div>
+
+  <div>
+<label for="깃허브">GitHub url(나는 타입이 url이에요):</label>
+  <input type="url"  name="깃허브"><br>
+  </div>
+  <button type="submit"> 보내기 </button>
+
+
+
+</form>
+
+
+  </body>
