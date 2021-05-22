@@ -2,9 +2,39 @@
 <head>
 <title> Profile </title>
 <meta charset="utf-8">
+
+  <style>
+
+    h1{
+              color:#6495ED;
+    }
+
+
+    div{
+
+           background-color: #E0FFFF;
+    }
+
+  .BEEF{
+        text-decoration:line-through;
+  }
+
+
+
+  </style>
+
+
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+
+
 </head>
+
+
+
 <body>
-<strong><h1>Profile</h1></strong>
+
+
+<strong><h1 style="background-color:#E0FFFF; padding-top:2x`0px; padding-bottom:20px;">Profile</h1></strong>
 <br><br><br>
 
 <img src="face.jpg" width="5%">
@@ -13,19 +43,37 @@
 
 원명진
 <br>
-소속:<a href="https://www.chungbuk.ac.kr/site/www/main.do"
-target="_blank" title="CBNU"> CBNU </a>
+-소속:<a href="https://www.chungbuk.ac.kr/site/www/main.do"
+target="_blank" title="CBNU"  style="color:green; text-decoration:none"    > CBNU </a>
  software
+ <br>
+ <span class="BEEF">-소고기</span>
 
 <br><br><br>
+<div>
+<h1>Family</h1>
 
-Family
-<ul>
-<li>Father</li>
-<li>Mother</li>
-<li>Sister</li>
-<li>Brother</li>
-</ul>
+  <ul>
+    <li>Father</li>
+    <li>Mother</li>
+    <li>Sister</li>
+    <li>Brother</li>
+  </ul>
+</div>
+<br><br><br>
+
+
+<h2>-폰트 적용</h2>
+  <p>
+    Before<br>
+    프란시스 은가누(프랑스어: Francis Ngannou, 1986년 9월 5일~)는 카메룬 태생의 종합 격투기 선수이다.
+   2021년 3월 28일 열렸던 UFC 260의 메인 이벤트에서 전 챔피언 스티페 미오치치를 2R KO로 잡아내며 UFC의 새로운 헤비급 챔피언에 등극했다.
+  </p>
+  <p style="font-family: 'Noto Sans KR', sans-serif;">
+    After<br>
+    프란시스 은가누(프랑스어: Francis Ngannou, 1986년 9월 5일~)는 카메룬 태생의 종합 격투기 선수이다.
+     2021년 3월 28일 열렸던 UFC 260의 메인 이벤트에서 전 챔피언 스티페 미오치치를 2R KO로 잡아내며 UFC의 새로운 헤비급 챔피언에 등극했다.
+     </p>
 <br><br><br>
 
 <table border="1">
